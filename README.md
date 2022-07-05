@@ -41,10 +41,10 @@ And then,
 
 
 ## 🔗 Links
-[![github](https://img.icons8.com/fluency-systems-filled/48/000000/github.png)](https://github.com/dharayush7)
-[![linkedin](https://img.icons8.com/ios-filled/48/000000/domain.png)](https://www.linkedin.com/)
+[![github](https://github.com/dharayush7/pyimage/blob/main/Icons/github.png?raw=true)](https://github.com/dharayush7)
+[![Website](https://github.com/dharayush7/pyimage/blob/main/Icons/website.png?raw=true)](https://www.linkedin.com/)
 
 
 
-![Logo](https://github.com/dharayush7/pyimage/blob/main/Typing_Speed_Test/logo.png?raw=true)
+![Logo](https://github.com/dharayush7/pyimage/blob/main/Icons/logo.png?raw=truehttps://github.com/dharayush7/pyimage/blob/main/Icons/website.png?raw=true)
 
