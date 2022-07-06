@@ -35,16 +35,16 @@ And then,
 ```
 ## Screenshots
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/main/Typing_Speed_Test/image2.png?raw=true)
+![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/Typing_Speed_Test/image2.png?raw=true)
  
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/main/Typing_Speed_Test/image1.png?raw=true)
+![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/Typing_Speed_Test/image1.png?raw=true)
 
 
 ## 🔗 Links
-[![github](https://github.com/dharayush7/pyimage/blob/main/Icons/github.png?raw=true)](https://github.com/dharayush7)
-[![Website](https://github.com/dharayush7/pyimage/blob/main/Icons/website.png?raw=true)](https://www.linkedin.com/)
+[![github](https://github.com/dharayush7/pyimage/blob/image/Icons/github.png?raw=true)](https://github.com/dharayush7)
+[![Website](https://github.com/dharayush7/pyimage/blob/image/Icons/website.png?raw=true)](#)
 
 
 
-![Logo](https://github.com/dharayush7/pyimage/blob/main/Icons/logo.png?raw=truehttps://github.com/dharayush7/pyimage/blob/main/Icons/website.png?raw=true)
+![Logo](https://github.com/dharayush7/pyimage/blob/image/Icons/logo.png?raw=true)
 
