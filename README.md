@@ -27,7 +27,7 @@ At frist clone thouse file or download a zip. Extract this zip file.
 And run those command. 
 
 ```bash
-  cd /downloads/Typing_Speed_Test-main
+  cd /downloads/Typing_Speed_Test-master
 ```
 And then, 
 ```bash
